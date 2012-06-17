@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "repository": {
     "title": "re:Source",
-    "handle": "resource",
+    "handle": "locker-resource",
     "author": "advatar",
     "update": "auto",
     "github": "https://github.com/advatar/locker-resource",
