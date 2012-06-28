@@ -1,10 +1,10 @@
 {
   "author": "Advatar <johan@sellstrom.me>",
-  "name": "re:Source",
-  "description": "re:Source Connector",
+  "name": "reSource",
+  "description": "reSource Connector",
   "version": "0.0.1",
   "repository": {
-    "title": "re:Source",
+    "title": "reSource",
     "handle": "locker-resource",
     "author": "advatar",
     "update": "auto",
@@ -15,10 +15,7 @@
     "oauthSize": {
       "width": 1000,
       "height": 1000
-    },
-    "profileIds": [
-      "login"
-    ],
+    }
   },
   "engines": {
     "node": ">=0.4.9"
