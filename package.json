@@ -12,6 +12,7 @@
     "url": "https://github.com/advatar/locker-resource",
     "type": "connector",
     "static": "false",
+    "status":"unstable",
     "oauthSize": {
       "width": 1000,
       "height": 1000
